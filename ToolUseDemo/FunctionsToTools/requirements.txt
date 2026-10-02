@@ -1,0 +1,9 @@
+aisuite[openai]>=0.1.11
+openai>=1.40
+docstring-parser>=0.16
+python-dotenv>=1.0
+requests>=2.31
+qrcode[pil]>=8.0
+pillow>=10.0
+ipython>=8.0
+ipykernel>=6.0

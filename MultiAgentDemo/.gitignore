@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# MarketResearchTeam: generated campaign assets
+outputs/
+generated_image.png
+campaign_summary*.md

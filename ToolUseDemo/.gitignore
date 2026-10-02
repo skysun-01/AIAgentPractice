@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# FunctionsToTools: files the LLM creates with its tools (notes, QR codes)
+*.txt
+!requirements.txt
+*.png
+
+# EmailTool: the simulated inbox (recreated automatically)
+*.db

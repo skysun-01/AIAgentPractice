@@ -1,0 +1,5 @@
+openai>=1.40
+tinydb>=4.8
+python-dotenv>=1.0
+ipython>=8.0
+ipykernel>=6.0

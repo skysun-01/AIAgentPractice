@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# CustomerServiceAgent: the TinyDB store (recreated by inv_utils.seed_db())
+store_db.json
